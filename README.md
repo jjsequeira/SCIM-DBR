@@ -60,6 +60,9 @@ The script can also be manually triggered whenever required to add users from th
 |-----------|
 | The process currently only adds users to the Databricks workspace based on their membership in the provided Azure AD group(s). This is not a synchronization process, meaning that users who are removed from the Azure AD group will not be automatically removed from Databricks. Any cleanup or removal of users from Databricks must be done manually.| 
 ---
+![image](https://github.com/user-attachments/assets/1455b952-00fc-4830-8f8e-555c119a6559)
+
+---
 
 ## Conclusion
 
